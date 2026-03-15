@@ -2,6 +2,9 @@
 
 RecipeBox is a web application that helps users discover and organize recipes easily.
 
+🚀 Live Website
+https://recipebox.vercel.app
+
 Features:
 - Search recipes
 - View ingredients and cooking steps
